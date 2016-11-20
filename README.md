@@ -31,3 +31,7 @@ bower init
 ```
 npm init -y
 ```
+### 7. 安装 node模块
+```
+npm install express body-parser express-session mongoose ejs --save
+```
